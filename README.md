@@ -6,4 +6,4 @@
 3. cd ./build
 4. cmkae ..
 5. make 
-6. run executable -> ./presion
+6. run executable
